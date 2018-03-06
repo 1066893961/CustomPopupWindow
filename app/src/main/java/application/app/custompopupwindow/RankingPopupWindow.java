@@ -20,6 +20,9 @@ import java.util.List;
  */
 
 public class RankingPopupWindow extends PopupWindow {
+    /**
+     * test
+     */
     private ListPopupWindowAdapter mListPopupWindowAdapter;
     private Listener mListener;
 
